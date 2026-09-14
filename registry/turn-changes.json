@@ -1,12 +1,7 @@
 {
   "repo": "Laokashouji/paseo-turn-changes",
-  "categories": [
-    "code-review",
-    "productivity"
-  ],
-  "platforms": [
-    "linux"
-  ],
+  "categories": ["code-review", "productivity"],
+  "platforms": ["linux"],
   "caveats": [
     "Requires Paseo 0.8.x stable; the UI is currently in Chinese.",
     "Codex uses edit-record fallback by default; native turn diffs require the optional host patch.",
